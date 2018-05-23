@@ -7,7 +7,7 @@ More materials to be placed here shortly.
 
 
 
-Other papers:
+**Related papers:**
 
 Jurgovsky, J., Granitzer, M., & Seifert, C. (2016, March). Evaluating memory efficiency and robustness of word embeddings. In European conference on information retrieval (pp. 200-211). Springer, Cham.
 
